@@ -1,0 +1,4 @@
+un sistem de notificare al incidentelor
+-canale ->ex: fb, email, telefon, sms
+--- -HotPhase - 
+--- -ColdPhase - de ex azi pe la oora nu stiu care, vine ceva. ar fi util sa inchideti geamul
